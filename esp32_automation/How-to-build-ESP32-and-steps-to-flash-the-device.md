@@ -2,7 +2,7 @@
 
 - git clone the repos
 ```
-git clone git@gitlab.com:iot15/esp32_automation.git
+git clone https://<githubtoken>@github.com/HydroTekFarm2023/esp32_automation.git
 ```
 
 ## How to setup esp-idf:
