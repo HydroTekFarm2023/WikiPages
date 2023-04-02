@@ -36,13 +36,13 @@ This is an example of the data structure inside the DB. Each object has 5 sample
 
 The sensor names are (at the time of writing) `ph, ec, water_temp, air_temp, humidity, co2`
 
-![image](uploads/716d731f6e972a22e15f1d1b94e8fae4/image.png)
+![image](../uploads/716d731f6e972a22e15f1d1b94e8fae4/image.png)
 
 ### App (desired result) data structure
 
 The resulting data structure (that is returned from the apiserver to the variable management service inside the app) instead has a `sensor_info `array of all the sensor data in sorted time order, like below. Since the query contained 50 elements, the length of it is 50. Every object in `sensor_info `has the `sensors `array again, but the `time `attribute is called` _id`.
 
-![image](uploads/31e040fc2a8357fd466e773ab06a9144/image.png)
+![image](../uploads/31e040fc2a8357fd466e773ab06a9144/image.png)
 
 ### Performance issue
 
