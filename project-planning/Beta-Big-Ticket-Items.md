@@ -1,0 +1,22 @@
+# Target Beta Release date 15th June 2021
+
+- [ ] GKE cluster setup and deployment  - Laki  ETA:05/30
+- [ ] Onboarding customers setup - Laki & Suresh ETA:06/30
+- [ ] AI Components Integration - Suresh 05/30
+   - [ ] Pest & Insect defection API  - Shivam ETA:04/30
+   - [ ] Fungal decease defection API - Nivedita ETA:05/30
+   - [ ] Plants Growth measurement  - Makarand ETA:05/15
+   - [ ] Health check via Thremal image - Anishka ETA:05/15
+   - [ ] Image download and classification  - Bharath  ETA:04/30
+- [ ] Register and Deploy APP  on Android play store   - Laki & Suresh  ETA:05/15
+- [ ] Register and deploy APP on Apple play store - Laki & Suresh ETA:05/30
+- [ ] PCB manufacturing  - Ajay & Laki(Librate)  ETA 05/30
+- [ ] Assemble the BOX -  Librate ETA:05/30
+- [ ] User presentation deck and demo  - Laki & Ajay ETA:06/10
+- [ ] Port the code into climate control - Raj & Ajay ETA:05/15
+- [ ] Finsh the Fertigation functionality - Raj  ETA:04/30
+- [ ] Improve user interface  - Ajay & Tom  ETA:05/15
+- [ ] Integrate the video surevellence  - Suresh  ETA:04/30
+- [ ] Finish the graphs - Ajay  ETA:05/15
+- [ ] setup the grow tent and NFT system  - Laki ETA:04/30
+- [ ] New RF transmitter integration - Nivedita  ETA:04/30
