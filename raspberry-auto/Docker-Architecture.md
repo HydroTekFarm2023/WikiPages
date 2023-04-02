@@ -1,0 +1,1 @@
+![docker_architecture__1_](uploads/2ca4a4fbbda42527b3490f418a77f7ea/docker_architecture__1_.png)
