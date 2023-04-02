@@ -1,0 +1,10 @@
+- [ ] GKE cluster setup and deployment
+- [ ] AI Components 
+   - [ ] Pest & Insect defection API
+   - [ ] Fungal decease defection API
+   - [ ] Plants Growth measurement 
+   - [ ] Health check via Thremal image
+   - [ ] Image download and classification 
+- [ ] Register and Deploy APP  on Android play store
+- [ ] Register and deploy APP on Apple play store
+- [ ] PCB manufacturing 
